@@ -65,7 +65,7 @@ Sunday       3 commits      █░░░░░░░░░░░░░░░░�
 
 ```
 
-**I Mostly Code in Python** 
+**I Mostly Code in C#** 
 
 ```text
 **Top Languages in Code:**
