@@ -28,21 +28,19 @@ Junior backend developer from Uzbekistan, lives in Tashkent. Im currently learni
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C665%20hrs%2024%20mins-blue?style=flat&logo=visual-studio-code&logoColor=white&labelColor=2b2b2b&link=https://github.com/UlugbekPulathodjaev)
-
 
 **🐱 My GitHub Data** 
 
-> 🏆 26 Contributions in the Year 2023
- > 
-> 📦 51.8 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 45 Public Repositories 
- > 
-> 🔑 3 Private Repositories  
- > 
+> 🔍 Actively seeking job opportunities
+> 
+> 📜 45 Public Repositories
+> 
+> 🌐 Full-stack Developer with expertise in .NET (C#) and broad knowledge of Python and JavaScript
+> 
+> 💼 Junior Backend Developer based in Tashkent, Uzbekistan
+> 
+> 📘 Actively studying JavaScript and working on real-world projects
+
 **I'm an Early 🐤** 
 
 ```text
