@@ -28,7 +28,7 @@ Junior backend developer from Uzbekistan, lives in Tashkent. Im currently learni
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C665%20hrs%2024%20mins-blue?style=flat&logo=visual-studio-code&logoColor=white&labelColor=2b2b2b)
+![Code Time](https://img.shields.io/badge/Code%20Time-3,665%20hrs%2024%20mins-blue?style=flat&logo=visual-studio-code&logoColor=white&labelColor=2b2b2b)
 
 
 **🐱 My GitHub Data** 
