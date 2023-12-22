@@ -5,7 +5,7 @@ Junior backend developer from Uzbekistan, lives in Tashkent. Im currently learni
 ## About Me
 
 [![Mail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:eryajf@163.com)](mailto:ulugbekpulathodzhaev@gmail.com)
-[![](https://img.shields.io/github/stars/UlugbekPulathodjaev?color=fefb7b&logo=Undertale)](https://github-readme-stats.vercel.app/api/?username=UlugbekPulathodjaev&show_icons=true&title_color=ffffff&text_color=666666&icon_color=7a7a7a&bg_color=ff9977&border_color=151515)
+[![](https://img.shields.io/github/stars/UlugbekPulathodjaev?color=fefb7b&logo=Undertale)](https://github-readme-stats.vercel.app/api/?username=UlugbekPulathodjaev&show_icons=true&title_color=ffffff&text_color=666666&icon_color=7a7a7a&bg_color=000000&border_color=151515)
 [![](https://img.shields.io/github/followers/UlugbekPulathodjaev?color=27da6b&logo=Handshake)](https://github.com/UlugbekPulathodjaev?tab=followers)
 
 
