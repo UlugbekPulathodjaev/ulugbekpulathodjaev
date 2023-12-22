@@ -55,13 +55,13 @@ Junior backend developer from Uzbekistan, lives in Tashkent. Im currently learni
 
 ```text
 
-Monday       11 commits     █████░░░░░░░░░░░░░░░░░░░░   23.91% 
-Tuesday      15 commits     ██████░░░░░░░░░░░░░░░░░░░   32.61% 
-Wednesday    20 commits     ████████░░░░░░░░░░░░░░░░░   43.48% 
-Thursday     18 commits     ███████░░░░░░░░░░░░░░░░░░   39.13% 
-Friday       12 commits     █████░░░░░░░░░░░░░░░░░░░░   26.09% 
-Saturday      5 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.87%
-Sunday	  3 commits    █░░░░░░░░░░░░░░░░░░░░░░░░   6.52%
+Monday       11 commits     ███████░░░░░░░░░░░░░░░░░░   23.4% 
+Tuesday      15 commits     █████████░░░░░░░░░░░░░░░░   31.91% 
+Wednesday    20 commits     ███████████░░░░░░░░░░░░░░   42.55% 
+Thursday     18 commits     ██████████░░░░░░░░░░░░░░░   38.30% 
+Friday       12 commits     ███████░░░░░░░░░░░░░░░░░░   25.53% 
+Saturday     5 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.64% 
+Sunday       3 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   06.38%
 
 ```
 
