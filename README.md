@@ -19,9 +19,9 @@ Junior backend developer from Uzbekistan, lives in Tashkent. Im currently learni
 
 ## Stats
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=cxyfreedom&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="cxyfreedom" /></p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=cxyfreedom&theme=material-palenight&hide_border=false" alt="cxyfreedom" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cxyfreedom&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="cxyfreedom" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=UlugbekPulathodjaev&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="UlugbekPulathodjaev" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=UlugbekPulathodjaev&theme=dark&hide_border=false" alt="UlugbekPulathodjaev" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UlugbekPulathodjaev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="UlugbekPulathodjaev" /></p>
 
 ![](https://github-profile-trophy.vercel.app/?username=cxyfreedom&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
